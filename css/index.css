@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.map {
+    position: relative;
+    width: 600px;
+    height: 500px;
+    background-color: lightgray;
+    border: 10px solid skyblue;
+    margin: 100px auto;
+}
