@@ -2,7 +2,6 @@
 
     var ps = "absolute";
 
-
     function Food(option) {
         option = option instanceof Object ? option : {};
         this.width = option.width || 20;
